@@ -5,6 +5,12 @@ Cakhseft Development is a one-stop solution for all your web development needs. 
 #### Website URL: https://kambojshalabh35.github.io/cakhseft-development/
 
 ## Contributors
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=kambojshalabh35/cakhseft-development"/>
-</a>
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
