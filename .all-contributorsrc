@@ -7,21 +7,21 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "meenadevi553311",
-      "name": "meenadevi553311",
-      "avatar_url": "https://avatars.githubusercontent.com/u/114795524?v=4",
-      "profile": "https://github.com/meenadevi553311",
-      "contributions": [
-        "design"
-      ]
-    },
-    {
       "login": "rahulaarora",
       "name": "Rahul Arora",
       "avatar_url": "https://avatars.githubusercontent.com/u/24794534?v=4",
       "profile": "https://rahularora.vercel.app/",
       "contributions": [
         "code"
+      ]
+     },
+     {
+      "login": "jmtherapy",
+      "name": "Rajiv Mahajan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87853796?v=4",
+      "profile": "https://jmtherapy.in",
+      "contributions": [
+        "design"
       ]
     }
   ],
