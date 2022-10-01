@@ -14,8 +14,8 @@
       "contributions": [
         "code"
       ]
-     },
-     {
+    },
+    {
       "login": "jmtherapy",
       "name": "Rajiv Mahajan",
       "avatar_url": "https://avatars.githubusercontent.com/u/87853796?v=4",
@@ -23,6 +23,15 @@
       "contributions": [
         "design",
         "doc"
+      ]
+    },
+    {
+      "login": "Milind-Palaria",
+      "name": "Milind Palaria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96460537?v=4",
+      "profile": "https://github.com/Milind-Palaria",
+      "contributions": [
+        "code"
       ]
     }
   ],
