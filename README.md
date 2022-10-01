@@ -15,7 +15,7 @@ Cakhseft Development is a one-stop solution for all your web development needs. 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/meenadevi553311"><img src="https://avatars.githubusercontent.com/u/114795524?v=4?s=100" width="100px;" alt="meenadevi553311"/><br /><sub><b>meenadevi553311</b></sub></a><br /><a href="#design-meenadevi553311" title="Design">🎨</a></td>
+      <td align="center"><a href="https://github.com/meenadevi553311"><img src="https://avatars.githubusercontent.com/u/114795524?v=4?s=100" width="100px;" alt="meenadevi553311"/><br /><sub><b>meenadevi553311</b></sub></a><br /><a href="#design-meenadevi553311" title="Design">🎨</a> <a href="https://github.com/kambojshalabh35/cakhseft-development/commits?author=meenadevi553311" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
