@@ -14,6 +14,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "rahulaarora",
+      "name": "Rahul Arora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24794534?v=4",
+      "profile": "https://rahularora.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
